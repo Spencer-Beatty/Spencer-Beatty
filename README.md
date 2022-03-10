@@ -2,6 +2,8 @@
 - 👀 I’m interested in Python, C and Game Development
 - 🌱 I’m currently learning Unity and SQL
 - 📫 How to reach me spencer.j.beatty@gmail.com
+- Gonna be a lot coming in here look out!
+
 
 <!---
 Spencer-Beatty/Spencer-Beatty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
