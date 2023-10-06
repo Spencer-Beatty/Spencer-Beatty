@@ -10,7 +10,7 @@ I am a young professional looking to find engaging work in the tech field. Curre
 
 ## 🎯 Projects I’m Proud Of 
 1. **[Calendar App](https://github.com/Spencer-Beatty/CalendarApp)**: Personal project aims to optimize free time by providing a Dynamic calendar that can fill in events around your schedule. Built with Javascript React frontend and Python Flask backend.
-2. **[Compiler](https://github.com/Spencer-Beatty/C-Compiler)**: A 16-week project that took a ton of work! It's all about taking C code and turning it into machine-readable assembly. Built with love and Java.
+2. **[Compiler](https://github.com/Spencer-Beatty/C-Compiler)**: A 16-week project that took a ton of work! It's all about taking C code and turning it into machine-readable assembly. Built with Java.
 3. **[Word Prediction Model](https://github.com/Spencer-Beatty/Python-Word-Prediction-Model)**: A project that analyzed tweets in a few different ways to predict given a string what sentences are most likely to occur next. Built with Python.
 
 ## 💌 Let's get social 
