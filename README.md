@@ -4,7 +4,7 @@ I am a young professional looking to find engaging work in the tech field. Curre
 
 ## 🛠️ My Toolbox 🧰 
 
-- Experience with: Java, Python, C, and R
+- Experience with: SQL, Java, Python, C, and R
 - Also doing projects in: Javascript, React, CSS, and HTML
 - Would love to learn: C++
 
